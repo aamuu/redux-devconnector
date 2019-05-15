@@ -4,11 +4,13 @@
   "description": "Social networking site for developers",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server",
+    "server": "nodemon server"
   },
   "author": "Amit Bidkar",
   "license": "MIT",
   "devDependencies": {
+    "@types/express": "^4.16.1",
     "concurrently": "^4.1.0",
     "nodemon": "^1.19.0",
     "prettier": "^1.17.1"
