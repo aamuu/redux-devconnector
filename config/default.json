@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://amit:amit@devconnector-jcj1y.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "secret"
+  "jwtSecret": "secret",
+  "githubClientId": "e6e2b04a83e6f332984a",
+  "githubSecret": "e6905b8471400bd9ed6f96eedf99b327479553c0"
 }
