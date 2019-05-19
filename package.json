@@ -25,6 +25,7 @@
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.5.8",
+    "prop-types": "^15.7.2",
     "request": "^2.88.0"
   }
 }
